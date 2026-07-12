@@ -1,3 +1,3 @@
 # Notes of sicp for the School of Computer Science, Nanjing University.
-# 关注哔哩哔哩up主“爱扑bug的熊”谢谢喵！
+# Dedicated to the absolutely best SICP course! Huge thanks to the professors and TAs—especially TA Wooden Axe! 关注哔哩哔哩up主“爱扑bug的熊”谢谢喵！
 # Errors may exist, and your understanding is appreciated.
